@@ -35,16 +35,17 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["MERN Full Stack Developer","Graphic Desginer", " Figma Designer", "Freelancer","Youtuber","Wordpress developer"],
+        strings: ["Front-End Developer","MERN Full Stack Developer","Freelancer","Youtuber"],
+        //"MERN Full Stack Developer","Graphic Desginer", " Figma Designer", "Freelancer","Youtuber","Wordpress developer"
         typeSpeed: 100,
-        backSpeed: 60,
+        backSpeed: 30,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["MERN Full Stack Developer", "Graphic Desginer", " Figma Designer", "Freelancer","Youtuber","Wordpress developer"],
+        strings: ["Front-End Developer","MERN Full Stack Developer","Freelancer","Youtuber"],
         typeSpeed: 100,
-        backSpeed: 60,
+        backSpeed: 30,
         loop: true
     });
 
