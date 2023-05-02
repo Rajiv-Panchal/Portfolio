@@ -35,7 +35,7 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["Front-End Developer","MERN Full Stack Developer","Freelancer","Youtuber"],
+        strings: ["Front-End Developer","MERN Full Stack Developer", "Freelancer","Youtuber"],
         //"MERN Full Stack Developer","Graphic Desginer", " Figma Designer", "Freelancer","Youtuber","Wordpress developer"
         typeSpeed: 100,
         backSpeed: 30,
@@ -43,7 +43,7 @@ $(document).ready(function(){
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Front-End Developer","MERN Full Stack Developer","Freelancer","Youtuber"],
+        strings: ["Front-End Developer","MERN Full Stack Developer","Freelancer","Youtuber","Wordpress developer"],
         typeSpeed: 100,
         backSpeed: 30,
         loop: true
