@@ -36,14 +36,14 @@ $(document).ready(function(){
     // typing text animation script
     var typed = new Typed(".typing", {
         strings: ["Front-End Developer","MERN Full Stack Developer", "Freelancer","Youtuber"],
-        //"MERN Full Stack Developer","Graphic Desginer", " Figma Designer", "Freelancer","Youtuber","Wordpress developer"
+        //"MERN Full Stack Developer","Graphic Desgi ner", " Figma Designer", "Freelancer","Youtuber","Wordpress developer"
         typeSpeed: 100,
         backSpeed: 30,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Front-End Developer","MERN Full Stack Developer","Freelancer","Youtuber","Wordpress developer"],
+        strings: ["Front-End Developer","MERN Full Stack Developer","Freelancer","Youtuber"],
         typeSpeed: 100,
         backSpeed: 30,
         loop: true
